@@ -1,6 +1,8 @@
 # PAGFL
 Joint estimation of latent groups and group-specific coefficients in panel data models Use pagfl With (In) R Software
 
+https://www.youtube.com/watch?v=bfLKVIENEXw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
